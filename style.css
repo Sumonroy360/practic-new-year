@@ -39,3 +39,49 @@ header {
      border-radius: 5px;
      background: #F15B22;
 }
+
+/* my-failures-section style */
+
+
+.my-failures-section {
+     display: flex;
+     margin-top: 140px;
+     justify-content: center;
+}
+
+.failures-img {
+     width: 451px;
+     height: 898px;
+     margin-left: 100px;
+}
+
+
+.failures-info{
+     padding: 370px 322px 0px 200px;
+}
+
+
+.failures-info-title {
+     color: #151414;
+     font-size: 40px;
+     font-weight: 700;
+     margin-bottom: 24px;
+}
+
+.failures-info-description {
+     color: #444343;
+     font-size: 16px;
+     font-weight: 400;
+     margin-bottom: 16px;
+}
+
+.failures-list-item {
+     color: #444343;
+     font-size: 16px;
+     font-weight: 400;
+}
+
+span{
+     color: #16D887;
+     margin-right: 10px;
+}
