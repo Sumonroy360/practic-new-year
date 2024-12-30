@@ -1,0 +1,41 @@
+* {
+     font-family: "Work Sans";
+     margin: 0px;
+     padding: 0px;
+}
+
+
+/* header related style */
+
+header {
+     background-image: url('images/banner/banner1.png');
+     width: 1600px;
+     height: 808px;
+}
+
+.header-info {
+     text-align: right;
+     padding: 216px 230px 166px 845px;
+}
+
+.header-info-title {
+     color: #151414;
+     font-size: 65px;
+     font-weight: 700;
+     margin-bottom: 25px;
+}
+
+.header-info-description {
+     color: #444343;
+     margin-bottom: 32px;
+     font-size: 16px;
+     font-weight: 400;
+}
+
+.header-btn {
+     width: 160px;
+     height: 64px;
+     border: 0px;
+     border-radius: 5px;
+     background: #F15B22;
+}
